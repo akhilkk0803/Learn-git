@@ -1,6 +1,24 @@
-git status for checking if the files have been tracked or not 
+1)git init to initialize git in that folder 
+
+2)git status for checking if the files have been tracked or not 
 untracked files-the files which are not tracked ie any changes made
 wont be known by git
 
-git init to initialize git in that folder 
+3)git add . to add git to all folders
+
+
+4) git commit -m "message" to see the changes happend
+
+5)git log   to see all the commits made
+
+6) in git log we get an id of each commits if we want to go back to 
+that commit we use git reset id
+
+7)if we delted a file and want it back we use git restore filename.txt
+
+8) git stash to basically not show the file in the folder and use it 
+   when required
+
+9) to use it we use git stash pop 
+10)fksdljfskj
 
