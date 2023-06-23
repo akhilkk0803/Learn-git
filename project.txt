@@ -1,0 +1,6 @@
+git status for checking if the files have been tracked or not 
+untracked files-the files which are not tracked ie any changes made
+wont be known by git
+
+git init to initialize git in that folder 
+
